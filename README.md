@@ -121,7 +121,7 @@ FXDXk%&;
 hVIi
 ```
 Oh yeah, a picture!    But looks like something is wrong.
-![LF](/images/lost+found.jpg)
+![LF](/images/lost+found.png)
 
 I use bless to look at data <screenshot Bless>
 
