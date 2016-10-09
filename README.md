@@ -26,7 +26,8 @@ mkdir thecardmount
 sudo mount -t ext4 thecard.tar thecardmount/
 ```
 ![lsa](images/lsa-mount.png)
-nothing else....
+
+nothing in the lost+found....
 
 google lost files on ext4, find mke2fs
 
