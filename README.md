@@ -123,7 +123,7 @@ hVIi
 Oh yeah, a picture!    But looks like something is wrong.
 ![LF](/images/lost+found.png)
 
-I use bless to look at data ![Bless](/images/Bless.png>
+I use bless to look at data ![Bless](/images/Bless.png)
 
 A quick google search shows magic number for JPG should be FF D8.  It's currently 00 D8 so a quick manipulation in Bless gives us this. ![Flag](/images/thecard.jpg)
 
