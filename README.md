@@ -92,6 +92,7 @@ Fix<y>? yes
 thecard.tar: ***** FILE SYSTEM WAS MODIFIED *****
 thecard.tar: 16/4096 files (0.0% non-contiguous), 14504/16384 blocks
 ```
+remount thecard.tar to thecardmount
 now cd into thecardmount/lost+found
 ```
 thecardmount/lost+found$ lsa
