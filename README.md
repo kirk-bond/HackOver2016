@@ -2,8 +2,8 @@
 
 ##thecard - forensics 9
 
-#_thecard
-#_We obtained a cyber terrorist's SD card, but it seems to be broken. Can you help us recover its content?
+#thecard
+#We obtained a cyber terrorist's SD card, but it seems to be broken. Can you help us recover its content?
 ```
 file thecard.img.xz-9835f59faf299b35d01a0bc39a9954ff42ba451659ac0f7c8ad954e270924600
 ```
@@ -110,7 +110,7 @@ WAVEfmt
 dataD
 ...redacted....
 ```
-Long story short, loaded this into VLC to listed to what might be a clue/flag only to hear men grunting.  My wife thought, oh wrestleing.  I though gay porn.  30 minutes wasted.
+Long story short, loaded this into VLC to listed to what might be a clue/flag only to hear men grunting.  My wife thought, oh wrestleing.  I thought gay porn.  30 minutes wasted.
 
 
 Next #14
@@ -120,7 +120,8 @@ JFIF
 FXDXk%&;
 hVIi
 ```
-Oh yeah, a picture!  <screenshot lost+found>  But looks like something is wrong.
+Oh yeah, a picture!    But looks like something is wrong.
+![LF](/images/lost+found.jpg)
 
 I use bless to look at data <screenshot Bless>
 
